@@ -1,0 +1,32 @@
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\bin\Debug\AplicacionListaEmpleadosFinal.exe.config
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\bin\Debug\AplicacionListaEmpleadosFinal.exe
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\bin\Debug\AplicacionListaEmpleadosFinal.pdb
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.csprojAssemblyReference.cache
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.GUIPrincipal.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.Properties.Resources.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.csproj.GenerateResource.cache
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.exe
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.pdb
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.GUIFormularioAgregarFinal.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.GUIMostrar.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.GUIFormularioAgregarInicio.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.GUIAgregarEmpleadoPosicion.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.GUIEliminarPorPosicion.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.GUIBuscarEmpleado.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\AplicacionListaEmpleadosFinal\obj\Debug\AplicacionListaEmpleadosFinal.GUIModificarEmpleado.resources
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.csprojAssemblyReference.cache
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.GUIModificarEmpleado.resources
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.GUIAgregarEmpleadoPosicion.resources
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.GUIBuscarEmpleado.resources
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.GUIEliminarPorPosicion.resources
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.GUIFormularioAgregarInicio.resources
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.GUIMostrar.resources
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.GUIFormularioAgregarFinal.resources
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.GUIPrincipal.resources
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.csproj.GenerateResource.cache
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.exe
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.pdb
+C:\Users\jeiss\Desktop\Lista_Empleados\bin\Debug\AplicacionListaEmpleadosFinal.exe.config
+C:\Users\jeiss\Desktop\Lista_Empleados\bin\Debug\AplicacionListaEmpleadosFinal.exe
+C:\Users\jeiss\Desktop\Lista_Empleados\bin\Debug\AplicacionListaEmpleadosFinal.pdb
+C:\Users\jeiss\Desktop\Lista_Empleados\obj\Debug\AplicacionListaEmpleadosFinal.Properties.Resources.resources
